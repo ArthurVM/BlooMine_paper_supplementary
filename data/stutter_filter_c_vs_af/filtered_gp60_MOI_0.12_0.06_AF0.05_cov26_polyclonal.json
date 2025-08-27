@@ -1,0 +1,175 @@
+{
+    "SRR6147964_UKP7": [
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A17G1R1-IIa",
+            198
+        ],
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G1R1-IIa",
+            26
+        ]
+    ],
+    "SRR26320669_Nor4": [
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A21G1R1-IIa",
+            114
+        ],
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A20G1R1-IIa",
+            29
+        ]
+    ],
+    "SRR10363509_43328": [
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCAACATCA",
+            "A17G2R2-IIa",
+            103
+        ],
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G2R1-IIa",
+            50
+        ]
+    ],
+    "SRR3091751_meta1499": [
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A17G1R1-IIa",
+            971
+        ],
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G1R1-IIa",
+            126
+        ]
+    ],
+    "SRR10363344_43442": [
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCAACATCA",
+            "A15G2R2-IIa",
+            188
+        ],
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G2R1-IIa",
+            110
+        ]
+    ],
+    "SRR26320685_GER31": [
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A14G1R1-IIa",
+            94
+        ],
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G2R1-IIa",
+            41
+        ]
+    ],
+    "SRR26320679_Hun4": [
+        [
+            "TCATCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G1R1-IIa",
+            428
+        ],
+        [
+            "TCATCATCGTCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G3R1-IIa",
+            73
+        ],
+        [
+            "TCATCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G1R1-IIa",
+            58
+        ]
+    ],
+    "SRR26320662_Swe3": [
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G2R1-IIa",
+            179
+        ],
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G2R1-IIa",
+            100
+        ]
+    ],
+    "SRR10363308_43455": [
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G2R1-IIa",
+            153
+        ],
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCAACATCA",
+            "A15G2R2-IIa",
+            60
+        ]
+    ],
+    "SRR26320677_Hun6": [
+        [
+            "TCATCATCGTCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G3R1-IIa",
+            210
+        ],
+        [
+            "TCATCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G1R1-IIa",
+            99
+        ]
+    ],
+    "UKP220": [
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A17G2R1-IIa",
+            158
+        ],
+        [
+            "TCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A17G1R1-IIa",
+            43
+        ]
+    ],
+    "SRR11516701_WA5dBov99": [
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A17G2R1-IIa",
+            95
+        ],
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G2R1-IIa",
+            30
+        ]
+    ],
+    "SRR26320678_Hun5": [
+        [
+            "TCATCATCGTCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G3R1-IIa",
+            206
+        ],
+        [
+            "TCATCATCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A16G1R1-IIa",
+            39
+        ]
+    ],
+    "SRR10363405_44679": [
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A15G2R1-IIa",
+            95
+        ],
+        [
+            "TCATCATCGTCATCGTCATCATCATCATCATCATCATCATCATCATCATCATCATCAACATCA",
+            "A17G2R1-IIa",
+            63
+        ]
+    ]
+}
