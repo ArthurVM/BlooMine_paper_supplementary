@@ -1,0 +1,14 @@
+Subpop report generated 12-07-25 05:59:28
+
+fastq:	/mnt/scratch45/sbiam21/all_crypto/bloomine/BlooMine_RUNDIR/SRR10363539_44272/Cp_gp60_IIa/SRR10363539_44272.Cp_gp60_IIa_BMfiltered.fq
+flanks_fasta flanks:	/mnt/scratch45/sbiam21/all_crypto/bloomine/BlooMine_RUNDIR/tmp.Cp_gp60_IIa_flanks.fa
+
+
+Sequence variants:
+TGATGTTGATGATGATGATGATGATGATGATGATGATGATGACGATGACGATGATGA	14
+TGATGTTGATGATGATGATGATGATGATGATGATGATTATGACGATGACGATGATAA	1
+TGATGTTGATGATGATGATGATGATGATGATGATTATGATGACGATGACGATGATGA	1
+
+Length variants:
+57	16
+

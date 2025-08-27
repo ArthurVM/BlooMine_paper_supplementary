@@ -1,0 +1,12 @@
+Subpop report generated 09-07-25 16:06:41
+
+fastq:	/home/amorris/BioInf/BlooMine_WD/BlooMine_paper_reanalysis/gp60_all/UKP216.CP044417_250000-300000/Cp_gp60_IIa/UKP216.CP044417_250000-300000.Cp_gp60_IIa_BMfiltered.fq
+flanks_fasta flanks:	/home/amorris/BioInf/BlooMine_WD/BlooMine_paper_reanalysis/gp60_all/tmp.Cp_gp60_IIa_flanks.fa
+
+
+Sequence variants:
+TGATGTTGATGATGATGATGATGATGATGATGATGATGATGATGATGACGATGACGATGATGA	1
+
+Length variants:
+63	1
+

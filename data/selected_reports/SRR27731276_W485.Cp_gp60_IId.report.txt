@@ -1,0 +1,12 @@
+Subpop report generated 07-08-25 11:13:26
+
+fastq:	/home/arthur/BioInf/run_bt2/CP044417_230000_280000/BlooMine_RUNDIR/SRR27731276_W485/Cp_gp60_IId/SRR27731276_W485.Cp_gp60_IId_BMfiltered.fq
+flanks_fasta flanks:	/home/arthur/BioInf/run_bt2/CP044417_230000_280000/BlooMine_RUNDIR/tmp.Cp_gp60_IId_flanks.fa
+
+
+Sequence variants:
+TCGATGTTGATGATGATGATGATGACGATGATGATGATGATGATGATGATGATGATGATGATGATGA	8
+
+Length variants:
+67	8
+

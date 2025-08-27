@@ -1,0 +1,16 @@
+Subpop report generated 01-08-25 13:31:46
+
+fastq:	/home/arthur/BioInf/Crypto_work/fastq/BM_paper_missing/BlooMine_RUNDIR/SRR6813716_UKP13/Cp_gp60_IIc/SRR6813716_UKP13.Cp_gp60_IIc_BMfiltered.fq
+flanks_fasta flanks:	/home/arthur/BioInf/Crypto_work/fastq/BM_paper_missing/BlooMine_RUNDIR/tmp.Cp_gp60_IIc_flanks.fa
+
+
+Sequence variants:
+TGTTGTTGACGATGACGATGATGACGATGA	118
+TGTTTTTGACGATGACGATGATGACGATGA	1
+TGTTGTTGACGATGACGATGATAACGATGA	1
+GTTGTTGACGATGACGATGATGACGATGA	1
+
+Length variants:
+30	120
+29	1
+
